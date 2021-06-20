@@ -33,6 +33,6 @@
   </div>
   
 
-  
+    ![Snake animation](https://github.com/pehcs/pehcs/blob/output/github-contribution-grid-snake.svg)
 
 
