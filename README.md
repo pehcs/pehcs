@@ -1,7 +1,10 @@
 ### Opa, tudo bom? Meu nome é Pedro, seja bem-vindo
+
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pehcs&show_icons=true&theme=tokyonight) 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pehcs&layout=compact)](https://github.com/pehcs/github-readme-stats)
 
   
 ## Contato
